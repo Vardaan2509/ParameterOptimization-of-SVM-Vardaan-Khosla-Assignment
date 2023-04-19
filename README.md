@@ -1,6 +1,8 @@
 # ParameterOptimization-of-SVM-Vardaan-Khosla-Assignment
 This is an assignment based on Parameter Optimization of SVM(Support Vector Machine) submitted for the course UCS654(Predictive Analytics using Statistics) by Vardaan Khosla.
 
+For the code please refer to - https://github.com/Vardaan2509/ParameterOptimization-of-SVM-Vardaan-Khosla-Assignment/blob/main/Paramater%20Optimization_Vardaan%20Khosla.ipynb
+
 # Parameter Optimization
 Parameter optimization is the process of finding the best combination of hyperparameters for a machine learning model. Hyperparameters are parameters that are set before the learning process begins and cannot be learned from the data.The choice of hyperparameters can have a significant impact on the performance of the model, and parameter optimization is the process of finding the combination of hyperparameters that gives the best results. 
 
